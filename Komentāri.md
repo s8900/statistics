@@ -3,7 +3,7 @@ Grāmata pieejama - [Statistics for People Who (Think They) Hate Statistics
 ](https://perpus.univpancasila.ac.id/repository/EBUPT200880.pdf)
 
 Šeit ir text formēšanas, jeb [markdown pamati](https://www.markdownguide.org/basic-syntax/)
-Šeit varam rakstīt - komentārus, idejas, svarīgu info.
+Šeit varam rakstīt - komentārus, idejas, svarīgu info vai arī atvērt šajā repozitorija ievietotit [cheat-sheet.md](https://github.com/kirilsvol/statistics/blob/main/cheat-sheet.md)
 
 ## Definīcijas
 ### Inferential statistics
