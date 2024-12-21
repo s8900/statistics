@@ -46,3 +46,4 @@ example, the interval scale includes the characteristics of the ordinal and nomi
 scales. I
 >
 ---
+jhjghfgnf
